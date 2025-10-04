@@ -1,0 +1,24 @@
+.chapter-spacer {
+  margin: 3rem 0;
+  height: 2.5em;
+  position: relative;
+  border: none;
+  background: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.chapter-spacer::before {
+  content: "/* ─────────────────────────────────────────────────────────────── */";
+  font-family: var(--font-monospace);
+  font-size: 0.95rem;
+  color: var(--text-accent); /* Cappuccino accent */
+  opacity: 0.8;
+  width: 100vw;
+  text-align: center;
+  display: block;
+  overflow: hidden;
+  white-space: nowrap;
+  pointer-events: none;
+}

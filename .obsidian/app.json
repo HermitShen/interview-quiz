@@ -1,0 +1,16 @@
+{
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "propertiesInDocument": "visible",
+  "showLineNumber": false,
+  "attachmentFolderPath": "Files",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "atomic notes",
+  "userIgnoreFilters": [
+    "files/",
+    "daily/",
+    "templates/"
+  ],
+  "spellcheck": false
+}
