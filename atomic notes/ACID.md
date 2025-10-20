@@ -126,4 +126,3 @@ DELETE FROM customers WHERE id = 42;  -- ошибка: FK нарушен
  
 ## Надежность (ACI**D**)
  
-fasds
