@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "atomic notes/SQL-troubleshooting.md",
-                "mode": "source",
+                "file": "atomic notes/сортировки.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SQL-troubleshooting"
+              "title": "сортировки"
             }
           }
         ],
@@ -133,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atomic notes/SQL-troubleshooting.md",
+                "file": "atomic notes/сортировки.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SQL-troubleshooting"
+              "title": "Outline of сортировки"
             }
           },
           {
@@ -264,8 +264,9 @@
   },
   "active": "dd817951ae191ff3",
   "lastOpenFiles": [
-    "atomic notes/для собеседований.md",
     "atomic notes/SQL-troubleshooting.md",
+    "atomic notes/для собеседований.md",
+    "atomic notes/структуры данных.md",
     "atomic notes/почему именно Kafka?.md",
     "atomic notes/индексы.md",
     "files/Screenshot From 2025-10-23 08-27-39.png",
@@ -299,7 +300,6 @@
     "atomic notes/шардирование.md",
     "files/Screenshot From 2025-10-23 03-22-06.png",
     "atomic notes/репликация.md",
-    "atomic notes/Айрат - заметки.md",
     "atomic notes/Untitled.base",
     "Untitled.canvas",
     "массив",
