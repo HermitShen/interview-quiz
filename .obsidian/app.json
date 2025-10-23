@@ -1,0 +1,21 @@
+{
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "propertiesInDocument": "visible",
+  "showLineNumber": false,
+  "attachmentFolderPath": "Files",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "atomic notes",
+  "userIgnoreFilters": [
+    "files/",
+    "daily/",
+    "templates/"
+  ],
+  "spellcheck": false,
+  "strictLineBreaks": false,
+  "tabSize": 5,
+  "readableLineLength": true,
+  "livePreview": true,
+  "defaultViewMode": "preview"
+}

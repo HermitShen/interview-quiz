@@ -1,0 +1,41 @@
+/* ---------- PREVIEW (reading view) ---------- */
+.markdown-preview-view h1::after,
+.markdown-preview-view h2::after,
+.markdown-preview-view h3::after,
+.markdown-preview-view h4::after,
+.markdown-preview-view h5::after,
+.markdown-preview-view h6::after {
+  content: "";
+  display: block;
+  padding-bottom: 8px; /* отступ между текстом и линией */
+  border-bottom-color: currentColor; /* наследует цвет заголовка */
+}
+
+/* цвета и толщины по уровням, только цвет теперь акцент */
+.markdown-preview-view h1::after { border-bottom: 4px solid currentColor; }
+.markdown-preview-view h2::after { border-bottom: 2px dotted currentColor; }
+
+/* ---------- EDITOR (Live Preview / HyperMD) ---------- */
+.HyperMD-header-1::after,
+.HyperMD-header-2::after,
+.HyperMD-header-3::after,
+.HyperMD-header-4::after,
+.HyperMD-header-5::after,
+.HyperMD-header-6::after {
+  content: "";
+  display: block;
+  padding-bottom: 8px;
+  border-bottom-color: currentColor; /* наследует цвет заголовка */
+}
+
+.HyperMD-header-1::after { border-bottom: 4px solid currentColor; }
+.HyperMD-header-2::after { border-bottom: 2px dotted currentColor; }
+
+/* опционально: чтобы линия была во всю ширину, даже если заголовок переносится */
+.markdown-preview-view h1, .markdown-preview-view h2, .markdown-preview-view h3,
+.markdown-preview-view h4, .markdown-preview-view h5, .markdown-preview-view h6,
+.HyperMD-header-1, .HyperMD-header-2, .HyperMD-header-3,
+.HyperMD-header-4, .HyperMD-header-5, .HyperMD-header-6 {
+  position: relative;
+}
+
