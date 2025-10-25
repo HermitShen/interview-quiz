@@ -2,7 +2,7 @@
   "showInlineTitle": false,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "propertiesInDocument": "visible",
+  "propertiesInDocument": "hidden",
   "showLineNumber": false,
   "attachmentFolderPath": "Files",
   "newFileLocation": "folder",
@@ -12,7 +12,7 @@
     "daily/",
     "templates/"
   ],
-  "spellcheck": false,
+  "spellcheck": true,
   "strictLineBreaks": false,
   "tabSize": 5,
   "readableLineLength": true,

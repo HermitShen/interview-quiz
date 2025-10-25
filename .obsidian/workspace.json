@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atomic notes/для собеседований.md",
+                "file": "atomic notes/индексы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of для собеседований"
+              "title": "Outline of индексы"
             }
           },
           {
@@ -185,8 +185,8 @@
             "state": {
               "type": "side-panel-control-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "side-panel-control-view"
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
             }
           },
           {
@@ -195,11 +195,12 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "192a33c552225113",
@@ -255,8 +256,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -288,8 +289,8 @@
   "active": "43ff3f4d33233ae5",
   "lastOpenFiles": [
     "atomic notes/индексы.md",
-    "atomic notes/задачи на паттерны.md",
     "atomic notes/для собеседований.md",
+    "atomic notes/задачи на паттерны.md",
     "files/Screenshot From 2025-10-23 08-27-39.png",
     "atomic notes/структуры данных.md",
     "atomic notes/связанный список.md",
