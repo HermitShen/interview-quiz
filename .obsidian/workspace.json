@@ -80,6 +80,30 @@
               "icon": "lucide-file",
               "title": "задачи на паттерны"
             }
+          },
+          {
+            "id": "42d3a47b9ae921c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "atomic notes/слайсы.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "слайсы"
+            }
           }
         ]
       }
@@ -288,8 +312,9 @@
   },
   "active": "43ff3f4d33233ae5",
   "lastOpenFiles": [
-    "atomic notes/задачи на паттерны.md",
+    "atomic notes/слайсы.md",
     "atomic notes/для собеседований.md",
+    "atomic notes/задачи на паттерны.md",
     "atomic notes/индексы.md",
     "files/Screenshot From 2025-10-23 08-27-39.png",
     "atomic notes/структуры данных.md",
@@ -318,7 +343,6 @@
     "atomic notes/интерфейсы.md",
     "atomic notes/map.md",
     "files/Screenshot From 2025-10-04 14-39-24.png",
-    "atomic notes/слайсы.md",
     "atomic notes/stack, heap.md",
     "files/Screenshot From 2025-10-23 03-28-06.png",
     "files/Screenshot From 2025-10-23 03-22-06 1.png",
