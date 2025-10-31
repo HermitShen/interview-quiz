@@ -15,7 +15,6 @@
     "chapter-spacer",
     "headers",
     "nav-clean",
-    "code_block-styling",
     "calendar",
     "inline_title",
     "card_layout",
@@ -32,7 +31,8 @@
     "goland-catppuccin-latte",
     "theme",
     "width",
-    "image_grid"
+    "image_grid",
+    "code_block-styling"
   ],
   "showRibbon": true,
   "baseFontSize": 17,

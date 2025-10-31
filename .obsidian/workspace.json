@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "097be2464d0e000a",
+            "id": "10fb8003e6e06c46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "atomic notes/индексы.md",
+                "file": "atomic notes/stack, heap.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,16 +54,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "индексы"
+              "title": "stack, heap"
             }
           },
           {
-            "id": "074e900a665d745b",
+            "id": "1996eccf9c1a387e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "atomic notes/задачи на паттерны.md",
+                "file": "atomic notes/горутины.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,31 +78,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "задачи на паттерны"
-            }
-          },
-          {
-            "id": "42d3a47b9ae921c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "atomic notes/слайсы.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "слайсы"
+              "title": "горутины"
             }
           }
         ]
@@ -179,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atomic notes/индексы.md",
+                "file": "atomic notes/stack, heap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of индексы"
+              "title": "Outline of stack, heap"
             }
           },
           {
@@ -223,8 +199,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "192a33c552225113",
@@ -312,9 +287,12 @@
   },
   "active": "43ff3f4d33233ae5",
   "lastOpenFiles": [
-    "atomic notes/слайсы.md",
     "atomic notes/stack, heap.md",
+    "atomic notes/горутины.md",
+    "atomic notes/атомики.md",
+    "atomic notes/Айрат - заметки.md",
     "atomic notes/для собеседований.md",
+    "atomic notes/слайсы.md",
     "atomic notes/задачи на паттерны.md",
     "atomic notes/индексы.md",
     "files/Screenshot From 2025-10-23 08-27-39.png",
@@ -335,10 +313,8 @@
     "atomic notes/задачи на конкурентность.md",
     "atomic notes/каналы.md",
     "atomic notes/мьютексы.md",
-    "atomic notes/атомики.md",
     "atomic notes/примитивы.md",
     "atomic notes/планировщик.md",
-    "atomic notes/горутины.md",
     "atomic notes/процессы, потоки.md",
     "atomic notes/строки.md",
     "atomic notes/интерфейсы.md",
