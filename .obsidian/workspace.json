@@ -34,13 +34,13 @@
             }
           },
           {
-            "id": "bbd26cc6112dc16d",
+            "id": "726baeb988042d28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "atomic notes/map.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -56,57 +56,8 @@
               "icon": "lucide-file",
               "title": "map"
             }
-          },
-          {
-            "id": "be0d20a959702459",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "atomic notes/интерфейсы.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "интерфейсы"
-            }
-          },
-          {
-            "id": "89355a54c0cbccad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "atomic notes/строки.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "строки"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,13 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "atomic notes/map.md",
+                "file": "atomic notes/для собеседований.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of map"
+              "title": "Outline of для собеседований"
             }
           },
           {
@@ -237,8 +188,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -284,8 +235,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -309,18 +259,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bbd26cc6112dc16d",
+  "active": "43ff3f4d33233ae5",
   "lastOpenFiles": [
-    "atomic notes/для собеседований.md",
     "atomic notes/map.md",
-    "atomic notes/строки.md",
+    "atomic notes/для собеседований.md",
+    "atomic notes/SQL-troubleshooting.md",
+    "atomic notes/стэк и очередь.md",
     "atomic notes/интерфейсы.md",
-    "atomic notes/слайсы.md",
+    "atomic notes/каналы.md",
+    "atomic notes/мьютексы.md",
+    "atomic notes/примитивы.md",
+    "atomic notes/атомики.md",
     "atomic notes/GC.md",
     "atomic notes/указатели.md",
-    "atomic notes/горутины.md",
     "atomic notes/stack, heap.md",
-    "atomic notes/атомики.md",
+    "atomic notes/строки.md",
+    "atomic notes/слайсы.md",
+    "atomic notes/процессы, потоки.md",
+    "atomic notes/планировщик.md",
+    "atomic notes/горутины.md",
     "atomic notes/Айрат - заметки.md",
     "atomic notes/задачи на паттерны.md",
     "atomic notes/индексы.md",
@@ -328,7 +285,6 @@
     "atomic notes/структуры данных.md",
     "atomic notes/связанный список.md",
     "atomic notes/сортировки.md",
-    "atomic notes/SQL-troubleshooting.md",
     "atomic notes/почему именно Kafka?.md",
     "files/Screenshot From 2025-10-23 08-24-41.png",
     "files/Screenshot From 2025-10-23 08-11-47.png",
@@ -337,12 +293,6 @@
     "files/Screenshot From 2025-10-23 07-42-35.png",
     "atomic notes/задачи на каналы.md",
     "atomic notes/ACID.md",
-    "atomic notes/задачи на конкурентность.md",
-    "atomic notes/каналы.md",
-    "atomic notes/мьютексы.md",
-    "atomic notes/примитивы.md",
-    "atomic notes/планировщик.md",
-    "atomic notes/процессы, потоки.md",
     "files/Screenshot From 2025-10-04 14-39-24.png",
     "files/Screenshot From 2025-10-23 03-28-06.png",
     "files/Screenshot From 2025-10-23 03-22-06 1.png",
